@@ -1,0 +1,95 @@
+\documentclass[a4paper,10pt]{article}
+%\documentclass[a4paper,10pt]{scrartcl}
+
+\usepackage[utf8]{inputenc}
+%\usepackage[textwidth=20cm]{geometry}
+%\usepackage{microtype}
+
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+
+\title{BlinkenHeart}
+\author{Jan Kaltofen}
+\date{20.07.2017}
+
+\pdfinfo{%
+  /Title    ()
+  /Author   ()
+  /Creator  ()
+  /Producer ()
+  /Subject  ()
+  /Keywords ()
+}
+
+\begin{document}
+\maketitle
+
+\section{Sicherheitshinweise}
+Nach dem Löten musst du dir deine Hände gründlich mit Seife
+waschen. Lötzinn ist nicht gesund und sollte nicht in die Nähe von
+Essen kommen. Essen und Trinken solltest du beim Löten vermeiden!
+
+%\includegraphics{-000}
+
+\section{Löten lernen}
+Zum Löten benötigst du einen Lötkolben, der auf eine Temperatur
+zwischen 310°C und 350°C eingestellt werden muss. Bei dieser
+Temperatur wird das Lötzinn flüssig und verbindet dein Bauteil mit der
+Platine. Bei so viel Hitze kannst du dich und andere schnell verletzen.
+Stelle deswegen den Lötkolben immer in die Halterung, wenn du ihn
+gerade nicht benötigst.
+
+\section{SMD Bauteile löten}
+SMD Bauteile sind Bauteile, die du auf der Oberfläche der Platine an so
+genannte "Lötpads" anlötest. Lötpads sind Flächen auf der Platine, die
+Lötzinn annehmen. Um ein SMD Bauteil anzulöten, erhitzt du die Platine
+zunächst an den quadratischen oder rechteckigen Flächen, die wir
+"Pad" nennen. Gib auf eine Seite eines Pad-Paares etwas Lötzinn bis
+sich ein kleiner Berg Lötzinn gebildet hat. Es ist wichtig, dass immer nur
+ein Pad mit Lötzinn bedeckt wird, sonst wird das Löten sehr schwierig!
+
+Halte nun den Lötkolben an das mit Lot bedeckte Pad und greife das
+Bauteil gleichzeitig mit einer Pinzette. Schiebe das Bauteil mit einer
+Seite in das flüssige Lot, so dass es mittig zwischen den beiden Pads
+sitzt. Entferne nun den Lötkolben und halte das Bauteil solange fest, bis
+das Lötzinn wieder fest geworden ist.
+
+Um die andere Seite des Bauteils festzulöten, erhitzt du das Pad und
+die noch fehlende Seite des Bauteils. Während du die Stelle mit dem
+Lötkolben erhitzt, führst du solange etwas Lötzinn hinzu, bis die
+Lötstelle wie auf dem Bild aussieht. Versuche das Bauteil zügig zu
+löten, damit die gegenüberliegende Lötstelle nicht wieder warm wird.
+Zu hohe Temperaturen über längere Zeit können das Bauteil
+beschädigen.
+
+Deine Lötstellen sollten ungefähr so aussehen, wie auf dem Bild.
+Die Pins der SMD Bauteile sollten seitlich komplett mit Lötzinn
+benetzt sein. Wenn du die Platine nach dem Löten umdrehst,
+dürfen die Bauteile nicht mehr abfallen.
+
+\section{SMD Bauteile mit vielen Kontakten löten}
+Es gibt SMD Bauteile mit sehr vielen Kontakten, die wir häufig auch
+Beinchen oder Pin nennen. Daher haben die Bauteile an der dafür
+vorgesehenen Stelle auf der Platine auch sehr viele Pads. Mit der
+richtigen Technik ist das allerdings für dich sicher kein Problem!
+
+Zuerst suchst du dir ein Pad an einer Ecke des Bauteils aus und führst
+etwas Lötzinn hinzu, bis ein kleiner Berg entsteht. Das Prinzip kennst du
+schon von den SMD Bauteilen mit nur zwei Kontakten.
+
+Anschliessend setzt du das Bauteil mit einer Pinzette auf die Pads und
+richtest alle Beinchen so aus, dass sie auf den Pads aufliegen. Halte
+das Bauteil mit der Pinzette die ganze Zeit gut fest, damit es nicht
+wegrutschen kann. Jedes Bauteil hat eine Markierung, z.B. einen Punkt,
+oder eine Kerbe an der Seite, um dir die Ausrichtung anzuzeigen!
+Wenn du Bauteile verdreht auflötest funktionieren sie nicht!
+
+Nun erhitzt du den Pin mit dem Lötzinn, bis das Lötzinn geschmolzen
+ist und den Pin umfließt. Nimm dann den Lötkolben weg und lasse das
+Lötzinn wieder kalt werden. Wenn das Bauteil leicht verdreht ist, erhitze
+den Pin wieder und drehe das Bauteil mit der Pinzette.
+Jetzt lötest du den diagonal gegenüberliegenden Pin an, indem du Pin
+und Lötpad erhitzt und etwas Lötzinn hinzufügst. Mache dann mit den
+noch nicht gelöteten Pins weiter.
+
+\end{document}
