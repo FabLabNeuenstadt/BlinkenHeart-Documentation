@@ -7,25 +7,59 @@
 %\usepackage[textwidth=20cm]{geometry}
 \usepackage{microtype}
 
+\usepackage{pifont,mdframed}
+
+\usepackage{colortbl,xcolor,array}
+\usepackage{tabularx}
+
 \usepackage{graphicx}
 \graphicspath{ {images/} }
 
+\definecolor{warningbackground}{HTML}{FFEB3B}
+\definecolor{hintbackground}{HTML}{03A9F4}
+
 \title{BlinkenHeart}
-\author{Jan Kaltofen}
+\author{FabLab Neuenstadt}
 \date{20.07.2017}
 
 \pdfinfo{%
   /Title    (BlinkenHeart)
-  /Author   (Jan Kaltofen)
+  /Author   (FabLab Neuenstadt)
   /Creator  ()
   /Producer ()
   /Subject  (BlinkenHeart)
   /Keywords ()
 }
+	
+\newcommand{\alertwarningbox}[1]{
+\begin{center}
+	\begin{tabularx}{\linewidth}{
+			>{\columncolor{warningbackground}}c
+			>{\columncolor{warningbackground}}X}
+		\raisebox{\dimexpr2\baselineskip-\height/2-\tabcolsep}
+		{\includegraphics[width=1cm]{icons/001-warning}}&
+		\raisebox{\tabcolsep}{\strut}\textbf{WICHTIG:} #1\raisebox{-\tabcolsep}{\strut}
+	\end{tabularx}
+\end{center}
+}
+
+\newcommand{\hintbox}[1]{
+\begin{center}
+	\begin{tabularx}{\linewidth}{
+			>{\columncolor{hintbackground}}c
+			>{\columncolor{hintbackground}}X}
+		\raisebox{\dimexpr2\baselineskip-\height/2-\tabcolsep}
+		{\includegraphics[width=1cm]{icons/002-technology}}&
+		\raisebox{\tabcolsep}{\strut}\textbf{TIPP:} #1\raisebox{-\tabcolsep}{\strut}
+	\end{tabularx}
+\end{center}
+}
+
 
 \begin{document}
 \maketitle
 
+\newpage
 \section{Sicherheitshinweise}
 Nach dem Löten musst du dir deine Hände gründlich mit Seife
 waschen. Lötzinn ist nicht gesund und sollte nicht in die Nähe von
@@ -136,13 +170,34 @@ noch nicht gelöteten Pins weiter.
 	\includegraphics[width=5cm]{-016}
 \end{center}
 
+\newpage
+\section{Löten}
+Am besten du lötest die Bauteil-Gruppen in folgender Reihenfolge ein, da es so am einfachsten ist:
+\begin{enumerate}
+	\item Mikroprozessor
+	\item Widerstände und Kondensatoren
+	\item Schalter und Taster
+	\item Leuchtdioden und Dioden
+	\item Batteriehalter
+\end{enumerate}
+Die Gruppen sind auch nochmals in der Grafik mit der jeweiligen Nummer markiert.
 
+\alertwarningbox{achte bei den Gruppen 1, 3, 4, 5 auf die korrekte Ausrichtung!
+	Wenn diese Bauteile falsch herum eingelötet werden funktioniert das
+	BlinkenHeart anschließend nicht.}
+\hintbox{fange je Gruppe oben links an und löte dann jedes Bauteil einzeln im Uhrzeigersinn ein.
+}
 
+\begin{center}
+	\includegraphics{pcb/solder_order}
+\end{center}
+
+\newpage
 \section{Infos über die Bauteile}
 \subsection{Prozessor}
 Das als IC1 gekennzeichnete Bauteil enthält den Programmcode der BlinkenHeart und führt diesen aus. Es ist sozusagen das Gehirn der BlinkenHeart.
 
-Tipp: Der Programmcode kann aus unserem GitHub-Repository heruntergeladen und bei Interesse auch verändert werden. Besuche dafür einfach die Website github.com/FabLabNeuenstadt/BlinkenHeart oder scanne folgenden QR-Code
+\hintbox{Der Programmcode kann aus unserem GitHub-Repository heruntergeladen und bei Interesse auch verändert werden. Besuche dafür einfach die Website github.com/FabLabNeuenstadt/BlinkenHeart oder scanne folgenden QR-Code:}
 \begin{center}
 	\includegraphics[width=3cm]{hw-repo-link}
 \end{center}
@@ -162,16 +217,21 @@ Die unmittelbar in der Nähe des Prozessors platzierten Bauteile sind Widerstän
 \subsection{Kondensator}
 Das Bauteil C1, welches sich direkt unter dem untersten Widerstand befindet ist ein Kondensator. Es glättet die Eingangs-Spannung in dem Falle das die BlinkenHeart über USB mit Strom versorgt wird. Dies ist nur beim beschreiben der BlinkenHeart mit einem neuen Programm der Fall.
 
+\newpage
 \section{über BlinkenHeart}
 \begin{center}
 	\includegraphics[width=5cm]{logo}
 \end{center}
 Die Bilder der Lötanleitung sind aus den Comics "Soldering is easy" von mightyohm.com und
 "SMT soldering - it's easier than you think" von siliconfarmers.com entnommen und unter einer
-Creative Commons Attribution Share-Alike Lizenz lizensiert. Die Basis für diese Anleitung
+Creative Commons Attribution Share-Alike Lizenz lizensiert.
+Die Basis für diese Anleitung
 und insbesondere der Teil für das Löten lernen wurde aus der Anleitung des CCC für die BlinkenRocket
 von blinkenrocket.de entnommen.
 Diese Anleitung und die BlinkenHeart Bilder sind ebenfalls unter dieser Lizenz lizensiert.
 Die BlinkenHeart Platine ist unter der CERN Open-Hardware License Version 1.2 lizensiert, die Firmware steht unter der Lesser General
 Public License Version 3.0 (LGPL V. 3.0) zur Verfügung.
+
+Das Icon für die Hinweis-Box wurde von Chris Veigt erstellt und über www.flaticon.com bezogen.
+Das Icon für die Tipp-Box wurde von Vectors Market erstellt und über www.flaticon.com bezogen.
 \end{document}
