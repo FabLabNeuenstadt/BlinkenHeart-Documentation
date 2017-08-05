@@ -1,5 +1,6 @@
-\documentclass{book} %[a4paper,10pt]{article}
+\documentclass{article} %[a4paper,10pt]{article}
 %\documentclass[a4paper,10pt]{scrartcl}
+
 
 \usepackage[a6paper]{geometry}
 
@@ -59,7 +60,13 @@
 
 
 \begin{document}
-\maketitle
+\begin{center}
+	{\LARGE BlinkenHeart}
+\end{center}
+\begin{center}
+	\includegraphics[width=7cm]{Logo/Logo}
+\end{center}
+%\maketitle
 
 \newpage
 \section{Sicherheitshinweise}
@@ -200,7 +207,7 @@ Die Gruppen sind auch nochmals in der Grafik mit der jeweiligen Nummer markiert.
 \subsection{Prozessor}
 Das als IC1 gekennzeichnete Bauteil enthält den Programmcode der BlinkenHeart und führt diesen aus. Es ist sozusagen das Gehirn der BlinkenHeart.
 
-\hintbox{Der Programmcode kann aus unserem GitHub-Repository heruntergeladen und bei Interesse auch verändert werden. Besuche dafür einfach die Website github.com/FabLabNeuenstadt/BlinkenHeart oder scanne folgenden QR-Code:}
+\hintbox{Der Programmcode kann aus unserem GitHub-Repository heruntergeladen und bei Interesse auch verändert werden. Besuche dafür einfach die Website "github.com/FabLabNeuenstadt/ BlinkenHeart" oder scanne folgenden QR-Code:}
 \begin{center}
 	\includegraphics[width=3cm]{hw-repo-link}
 \end{center}
@@ -217,15 +224,13 @@ Daher ist auch die Richtung der LEDs beim einlöten so wichtig.
 \subsection{Widerstände}
 Die unmittelbar in der Nähe des Prozessors platzierten Bauteile sind Widerstände. Diese dienen hier dazu den Strom zu begrenzen der durch die LEDs fließt da diese einen sehr geringen Eigenwiederstand haben. Wären diese Widerstände nicht vorhanden würden die LEDs nach kürzester Zeit kaputt gehen.
 
+\newpage
 \subsection{Kondensator}
 Das Bauteil C1, welches sich direkt unter dem untersten Widerstand befindet ist ein Kondensator. Es glättet die Eingangs-Spannung in dem Falle das die BlinkenHeart über USB mit Strom versorgt wird. Dies ist nur beim beschreiben der BlinkenHeart mit einem neuen Programm der Fall.
 
 \newpage
 \section{über BlinkenHeart}
-\begin{center}
-	\includegraphics[width=5cm]{logo}
-\end{center}
-Die Bilder der Lötanleitung sind aus den Comics "Soldering is easy" von mightyohm.com und
+{\footnotesize Die Bilder der Lötanleitung sind aus den Comics "Soldering is easy" von mightyohm.com und
 "SMT soldering - it's easier than you think" von siliconfarmers.com entnommen und unter einer
 Creative Commons Attribution Share-Alike Lizenz lizensiert.
 Die Basis für diese Anleitung
@@ -236,5 +241,9 @@ Die BlinkenHeart Platine ist unter der CERN Open-Hardware License Version 1.2 li
 Public License Version 3.0 (LGPL V. 3.0) zur Verfügung.
 
 Das Icon für die Hinweis-Box wurde von Chris Veigt erstellt und über www.flaticon.com bezogen.
-Das Icon für die Tipp-Box wurde von Vectors Market erstellt und über www.flaticon.com bezogen.
+Das Icon für die Tipp-Box wurde von Vectors Market erstellt und über www.flaticon.com bezogen.}
+
+\begin{center}
+	\includegraphics[width=5cm]{logo}
+\end{center}
 \end{document}

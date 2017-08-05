@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.29)  1 AUG 2017 20:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.29)  5 AUG 2017 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,20 +6,19 @@ entering extended mode
 (./BlinkenHeart.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -42,9 +41,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -368,11 +367,11 @@ Now handling font encoding U ...
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks18
-\MT@count=\count91
+\MT@count=\count90
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen111
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count92
+\MT@listname@count=\count91
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -439,24 +438,24 @@ L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
 L3 Module: l3str 2016/01/03 v6357 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
 L3 Module: l3int 2016/01/05 v6366 L3 Integers
-\c_max_int=\count93
-\l_tmpa_int=\count94
-\l_tmpb_int=\count95
-\g_tmpa_int=\count96
-\g_tmpb_int=\count97
+\c_max_int=\count92
+\l_tmpa_int=\count93
+\l_tmpb_int=\count94
+\g_tmpa_int=\count95
+\g_tmpb_int=\count96
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
-\g__prg_map_int=\count98
+\g__prg_map_int=\count97
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
 L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
 L3 Module: l3msg 2015/09/28 v6113 L3 Messages
 L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
-\l_iow_line_count_int=\count99
-\l__iow_target_count_int=\count100
-\l__iow_current_line_int=\count101
-\l__iow_current_word_int=\count102
-\l__iow_current_indentation_int=\count103
+\l_iow_line_count_int=\count98
+\l__iow_target_count_int=\count99
+\l__iow_current_line_int=\count100
+\l__iow_current_word_int=\count101
+\l__iow_current_indentation_int=\count102
 L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \c_zero_dim=\dimen112
 \c_max_dim=\dimen113
@@ -477,18 +476,18 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
 L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
-\g__keyval_level_int=\count104
-\l_keys_choice_int=\count105
+\g__keyval_level_int=\count103
+\l_keys_choice_int=\count104
 L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
-\c__fp_leading_shift_int=\count106
-\c__fp_middle_shift_int=\count107
-\c__fp_trailing_shift_int=\count108
-\c__fp_big_leading_shift_int=\count109
-\c__fp_big_middle_shift_int=\count110
-\c__fp_big_trailing_shift_int=\count111
-\c__fp_Bigg_leading_shift_int=\count112
-\c__fp_Bigg_middle_shift_int=\count113
-\c__fp_Bigg_trailing_shift_int=\count114
+\c__fp_leading_shift_int=\count105
+\c__fp_middle_shift_int=\count106
+\c__fp_trailing_shift_int=\count107
+\c__fp_big_leading_shift_int=\count108
+\c__fp_big_middle_shift_int=\count109
+\c__fp_big_trailing_shift_int=\count110
+\c__fp_Bigg_leading_shift_int=\count111
+\c__fp_Bigg_middle_shift_int=\count112
+\c__fp_Bigg_trailing_shift_int=\count113
 L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
 \c_empty_box=\box26
 \l_tmpa_box=\box27
@@ -538,18 +537,18 @@ L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count115
+\l__driver_color_stack_int=\count114
 ))
 Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count116
-\l__xparse_m_args_int=\count117
-\l__xparse_mandatory_args_int=\count118
-\l__xparse_processor_int=\count119
-\l__xparse_v_nesting_int=\count120
+\l__xparse_current_arg_int=\count115
+\l__xparse_m_args_int=\count116
+\l__xparse_mandatory_args_int=\count117
+\l__xparse_processor_int=\count118
+\l__xparse_v_nesting_int=\count119
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count121
+\etb@tempcnta=\count120
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
 Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
@@ -578,7 +577,7 @@ Package zref Info: New property: page on input line 761.
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 )
-\c@abspage=\count122
+\c@abspage=\count121
 Package zref Info: New property: abspage on input line 62.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
@@ -594,10 +593,10 @@ Package color Info: Driver file: pdftex.def on input line 143.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count123
+\Gread@gobject=\count122
 ))
 \mdf@templength=\skip50
-\c@mdf@globalstyle@cnt=\count124
+\c@mdf@globalstyle@cnt=\count123
 \mdf@skipabove@length=\skip51
 \mdf@skipbelow@length=\skip52
 \mdf@leftmargin@length=\skip53
@@ -673,7 +672,7 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@horizontalspaceofbox=\skip114
 \mdfsubtitleheight=\skip115
 \mdfsubsubtitleheight=\skip116
-\c@mdfcountframes=\count125
+\c@mdfcountframes=\count124
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -689,10 +688,10 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 . 
 . Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
 .................................................
-\mdf@envdepth=\count126
-\c@mdf@env@i=\count127
-\c@mdf@env@ii=\count128
-\c@mdf@zref@counter=\count129
+\mdf@envdepth=\count125
+\c@mdf@env@i=\count126
+\c@mdf@env@ii=\count127
+\c@mdf@zref@counter=\count128
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
@@ -734,7 +733,7 @@ Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
 \TX@old@col=\dimen147
 \TX@target=\dimen148
 \TX@delta=\dimen149
-\TX@cols=\count130
+\TX@cols=\count129
 \TX@ftn=\toks21
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -757,18 +756,18 @@ Package graphics Info: Driver file: pdftex.def on input line 95.
 (./BlinkenHeart.aux)
 \openout1 = `BlinkenHeart.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -777,34 +776,34 @@ LaTeX Font Info:    ... okay on input line 61.
 * paper: a6paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(35.85083pt, 209.12683pt, 53.77628pt)
+* modes: 
+* h-part:(L,W,R)=(44.81355pt, 209.12683pt, 44.81355pt)
 * v-part:(T,H,B)=(50.5326pt, 294.76926pt, 75.79893pt)
 * \paperwidth=298.75394pt
 * \paperheight=421.10078pt
 * \textwidth=209.12683pt
 * \textheight=294.76926pt
-* \oddsidemargin=-36.41916pt
-* \evensidemargin=-18.49371pt
-* \topmargin=-51.80489pt
+* \oddsidemargin=-27.45644pt
+* \evensidemargin=-27.45644pt
+* \topmargin=-58.7374pt
 * \headheight=12.0pt
-* \headsep=18.06749pt
+* \headsep=25.0pt
 * \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=125.0pt
-* \marginparsep=7.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 61.
+LaTeX Info: Redefining \microtypecontext on input line 62.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -822,16 +821,16 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count131
+\scratchcounter=\count130
 \scratchdimen=\dimen152
 \scratchbox=\box47
-\nofMPsegments=\count132
-\nofMParguments=\count133
+\nofMPsegments=\count131
+\nofMParguments=\count132
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count134
+\MPscratchCnt=\count133
 \MPscratchDim=\dimen153
-\MPnumerator=\count135
-\makeMPintoPDFobject=\count136
+\MPnumerator=\count134
+\makeMPintoPDFobject=\count135
 \everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -848,119 +847,99 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 62.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 62.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
+<images/Logo/Logo.png, id=1, 241.50224pt x 210.90794pt>
+File: images/Logo/Logo.png Graphic file (type png)
 
-[1
+<use images/Logo/Logo.png>
+Package pdftex.def Info: images/Logo/Logo.png used on input line 67.
+(pdftex.def)             Requested size: 199.16928pt x 173.93681pt.
+ [1
 
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (10.35071pt too wide) in paragraph at lines 66--69
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/Logo/Logo.png>]
+Overfull \hbox (10.35071pt too wide) in paragraph at lines 73--76
 \OT1/cmr/m/n/10 (-20) Nach dem L^^?oten musst du dir deine H^^?ande gr^^?undlic
 h
  []
 
-<images/-000.png, id=8, 637.38126pt x 530.98375pt>
+<images/-000.png, id=11, 637.38126pt x 530.98375pt>
 File: images/-000.png Graphic file (type png)
  <use images/-000.png>
-Package pdftex.def Info: images/-000.png used on input line 70.
+Package pdftex.def Info: images/-000.png used on input line 77.
 (pdftex.def)             Requested size: 142.26378pt x 118.51013pt.
 
 [2 <./images/-000.png (PNG copy)>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 76.
+(Font)              <7> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 76.
+(Font)              <5> on input line 83.
 
-<images/-002.png, id=14, 630.355pt x 476.78125pt>
+<images/-002.png, id=16, 630.355pt x 476.78125pt>
 File: images/-002.png Graphic file (type png)
  <use images/-002.png>
-Package pdftex.def Info: images/-002.png used on input line 82.
+Package pdftex.def Info: images/-002.png used on input line 89.
 (pdftex.def)             Requested size: 142.26378pt x 107.59853pt.
 
-Overfull \hbox (5.00621pt too wide) in paragraph at lines 85--85
-[]\OT1/cmr/bx/n/14.4 bedrahtete Bauteile l^^?oten 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3 <./images/-002.png (PNG copy)>] <images/-004.png, id=20, 553.06625pt x 456.
-70625pt>
+[3 <./images/-002.png (PNG copy)>]
+<images/-004.png, id=21, 553.06625pt x 456.70625pt>
 File: images/-004.png Graphic file (type png)
-
-<use images/-004.png>
-Package pdftex.def Info: images/-004.png used on input line 94.
+ <use images/-004.png>
+Package pdftex.def Info: images/-004.png used on input line 101.
 (pdftex.def)             Requested size: 142.26378pt x 117.4725pt.
 
-Overfull \hbox (4.10909pt too wide) in paragraph at lines 97--101
+Overfull \hbox (4.10909pt too wide) in paragraph at lines 104--108
 \OT1/cmr/m/n/10 (-20) kannst du mit der L^^?otspitze an dem Draht-beinchen
  []
 
 [4 <./images/-004.png (PNG copy)>]
-<images/-006.png, id=24, 679.53876pt x 414.54875pt>
+<images/-006.png, id=25, 679.53876pt x 414.54875pt>
 File: images/-006.png Graphic file (type png)
  <use images/-006.png>
-Package pdftex.def Info: images/-006.png used on input line 102.
+Package pdftex.def Info: images/-006.png used on input line 109.
 (pdftex.def)             Requested size: 142.26378pt x 86.7858pt.
 
-Overfull \hbox (17.53969pt too wide) in paragraph at lines 106--113
+Overfull \hbox (17.53969pt too wide) in paragraph at lines 113--120
 \OT1/cmr/m/n/10 (-20) SMD Bauteile sind Bauteile, die du auf der Oberfl^^?ache
  []
 
 [5 <./images/-006.png (PNG copy)>]
-<images/-010.png, id=28, 923.45pt x 286.06876pt>
+<images/-010.png, id=29, 923.45pt x 286.06876pt>
 File: images/-010.png Graphic file (type png)
  <use images/-010.png>
-Package pdftex.def Info: images/-010.png used on input line 114.
+Package pdftex.def Info: images/-010.png used on input line 121.
 (pdftex.def)             Requested size: 142.26378pt x 44.06956pt.
 
-<images/-008.png, id=29, 902.37125pt x 466.74374pt>
+<images/-008.png, id=30, 902.37125pt x 466.74374pt>
 File: images/-008.png Graphic file (type png)
  <use images/-008.png>
-Package pdftex.def Info: images/-008.png used on input line 123.
+Package pdftex.def Info: images/-008.png used on input line 130.
 (pdftex.def)             Requested size: 142.26378pt x 73.58374pt.
 
-Overfull \hbox (1.69685pt too wide) in paragraph at lines 126--133
+Overfull \hbox (1.69685pt too wide) in paragraph at lines 133--140
 \OT1/cmr/m/n/10 (-20) L^^?otkolben er-hitzt, f^^?uhrst du solange et-was L^^?ot
 zinn
  []
 
 [6 <./images/-010.png (PNG copy)> <./images/-008.png (PNG copy)>]
-<images/-012.png, id=33, 635.37375pt x 500.87125pt>
+<images/-012.png, id=34, 635.37375pt x 500.87125pt>
 File: images/-012.png Graphic file (type png)
  <use images/-012.png>
-Package pdftex.def Info: images/-012.png used on input line 151.
+Package pdftex.def Info: images/-012.png used on input line 158.
 (pdftex.def)             Requested size: 142.26378pt x 112.14853pt.
 
-Overfull \hbox (63.69225pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/10 0.5.  SMD BAUTEILE MIT VIELEN KONTAKTEN L[]OTEN \OT1/cmr/m/n/1
-0 7
- []
-
 [7] [8 <./images/-012.png (PNG copy)>]
-<images/-016.png, id=41, 1017.8025pt x 429.605pt>
+<images/-016.png, id=42, 1017.8025pt x 429.605pt>
 File: images/-016.png Graphic file (type png)
  <use images/-016.png>
-Package pdftex.def Info: images/-016.png used on input line 173.
+Package pdftex.def Info: images/-016.png used on input line 180.
 (pdftex.def)             Requested size: 142.26378pt x 60.04596pt.
 
-Overfull \hbox (63.69225pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/10 0.5.  SMD BAUTEILE MIT VIELEN KONTAKTEN L[]OTEN \OT1/cmr/m/n/1
-0 9
- []
-
 [9 <./images/-016.png (PNG copy)>]
-<images/icons/001-warning.png, id=45, 51.392pt x 51.392pt>
+<images/icons/001-warning.png, id=46, 51.392pt x 51.392pt>
 <use images/icons/001-warning.png> <use images/icons/001-warning.png>
 File: images/icons/001-warning.png Graphic file (type png)
 
 <use images/icons/001-warning.png>
-Package pdftex.def Info: images/icons/001-warning.png used on input line 190.
+Package pdftex.def Info: images/icons/001-warning.png used on input line 197.
 (pdftex.def)             Requested size: 28.45274pt x 28.45308pt.
 
 <images/icons/002-technology.png, id=47, 51.392pt x 51.392pt>
@@ -968,11 +947,11 @@ Package pdftex.def Info: images/icons/001-warning.png used on input line 190.
 File: images/icons/002-technology.png Graphic file (type png)
 
 <use images/icons/002-technology.png>
-Package pdftex.def Info: images/icons/002-technology.png used on input line 192
+Package pdftex.def Info: images/icons/002-technology.png used on input line 199
 .
 (pdftex.def)             Requested size: 28.45274pt x 28.45308pt.
 
-Underfull \hbox (badness 1292) in paragraph at lines 192--192
+Underfull \hbox (badness 1292) in paragraph at lines 199--199
 \OT1/cmr/m/n/10 (+20) an und l^^?ote dann jedes Bauteil
  []
 
@@ -981,15 +960,15 @@ Underfull \hbox (badness 1292) in paragraph at lines 192--192
 File: images/pcb/solder_order.png Graphic file (type png)
 
 <use images/pcb/solder_order.png>
-Package pdftex.def Info: images/pcb/solder_order.png used on input line 195.
+Package pdftex.def Info: images/pcb/solder_order.png used on input line 202.
 (pdftex.def)             Requested size: 247.223pt x 216.6087pt.
 
-Overfull \hbox (38.09618pt too wide) in paragraph at lines 195--196
+Overfull \hbox (38.09618pt too wide) in paragraph at lines 202--203
  [] 
  []
 
 [11 <./images/icons/002-technology.png> <./images/pcb/solder_order.png>]
-Overfull \hbox (1.06966pt too wide) in paragraph at lines 201--202
+Overfull \hbox (1.06966pt too wide) in paragraph at lines 208--209
 \OT1/cmr/m/n/10 (-20) Pro-gramm-code der Blinken-Heart und f^^?uhrt diesen
  []
 
@@ -997,27 +976,27 @@ Overfull \hbox (1.06966pt too wide) in paragraph at lines 201--202
 File: images/icons/002-technology.png Graphic file (type png)
 
 <use images/icons/002-technology.png>
-Package pdftex.def Info: images/icons/002-technology.png used on input line 203
+Package pdftex.def Info: images/icons/002-technology.png used on input line 210
 .
 (pdftex.def)             Requested size: 28.45274pt x 28.45308pt.
 
-Underfull \hbox (badness 6047) in paragraph at lines 203--203
+Underfull \hbox (badness 6047) in paragraph at lines 210--210
 \OT1/cmr/m/n/10 (+20) aus un-serem GitHub-Repository
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 203--203
+Underfull \hbox (badness 7030) in paragraph at lines 210--210
 \OT1/cmr/m/n/10 (+20) auch ver^^?andert wer-den. Be-
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 203--203
+Underfull \hbox (badness 1412) in paragraph at lines 210--210
 \OT1/cmr/m/n/10 (+20) suche daf^^?ur ein-fach die Web-site
  []
 
 
-Overfull \hbox (38.42969pt too wide) in paragraph at lines 203--203
-\OT1/cmr/m/n/10 (-20) github.com/FabLabNeuenstadt/BlinkenHeart
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+\OT1/cmr/m/n/10 (+20) "github.com/FabLabNeuenstadt/
  []
 
 Package epstopdf Info: Source file: <images/hw-repo-link.eps>
@@ -1028,17 +1007,17 @@ Package epstopdf Info: Source file: <images/hw-repo-link.eps>
 (epstopdf)                    size: 6554 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/hw-repo-link-eps-co
 nverted-to.pdf images/hw-repo-link.eps>
-(epstopdf)             \includegraphics on input line 205.
+(epstopdf)             \includegraphics on input line 212.
 Package epstopdf Info: Output file is already uptodate.
 <images/hw-repo-link-eps-converted-to.pdf, id=59, 31.11626pt x 31.11626pt>
 File: images/hw-repo-link-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/hw-repo-link-eps-converted-to.pdf>
 Package pdftex.def Info: images/hw-repo-link-eps-converted-to.pdf used on input
- line 205.
+ line 212.
 (pdftex.def)             Requested size: 85.35826pt x 85.37668pt.
  [12 <./images/hw-repo-link-eps-converted-to.pdf>]
-Overfull \hbox (19.2885pt too wide) in paragraph at lines 218--219
+Overfull \hbox (19.2885pt too wide) in paragraph at lines 225--226
 \OT1/cmr/m/n/10 (-20) Die un-mit-tel-bar in der N^^?ahe des Prozes-sors platzie
 rten
  []
@@ -1047,34 +1026,28 @@ rten
 File: images/logo.png Graphic file (type png)
 
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png used on input line 226.
+Package pdftex.def Info: images/logo.png used on input line 247.
 (pdftex.def)             Requested size: 142.26378pt x 57.3299pt.
-
-Overfull \hbox (3.3163pt too wide) in paragraph at lines 228--237
-\OT1/cmr/m/n/10 (-20) "Sol-der-ing is easy" von mighty-ohm.com und "SMT
- []
-
-[15 <./images/logo.png>] [16] (./BlinkenHeart.aux) ) 
+ [15 <./images/logo.png>] (./BlinkenHeart.aux) ) 
 Here is how much of TeX's memory you used:
- 12611 strings out of 494953
- 227980 string characters out of 6180977
- 308041 words of memory out of 5000000
- 15698 multiletter control sequences out of 15000+600000
- 10517 words of font info for 60 fonts, out of 8000000 for 9000
+ 12572 strings out of 494953
+ 227443 string characters out of 6180977
+ 307584 words of memory out of 5000000
+ 15657 multiletter control sequences out of 15000+600000
+ 8067 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  40i,12n,42p,10401b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-7.pfb>
-Output written on BlinkenHeart.pdf (16 pages, 1166778 bytes).
+</usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y7.pfb>
+Output written on BlinkenHeart.pdf (15 pages, 1424194 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 12354 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 9799 words of extra memory for PDF output out of 10000 (max. 10000000)
 
