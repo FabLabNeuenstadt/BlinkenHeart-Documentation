@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.29)  1 AUG 2017 20:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.29)  8 AUG 2017 22:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -316,7 +316,7 @@ Package pdftex.def Info: a5.pdf, page1 used on input line 7.
 (pdftex.def)             Requested size: 420.88815pt x 597.20595pt.
  [1
 
- <./a5.pdf> <./a5.pdf>] <a5.pdf, id=54, page=3, 421.10124pt x 597.50829pt>
+ <./a5.pdf> <./a5.pdf>] <a5.pdf, id=45, page=3, 421.10124pt x 597.50829pt>
 File: a5.pdf Graphic file (type pdf)
 
 <use a5.pdf, page 3>
@@ -327,7 +327,7 @@ File: a5.pdf Graphic file (type pdf)
 Package pdftex.def Info: a5.pdf, page3 used on input line 7.
 (pdftex.def)             Requested size: 420.88815pt x 597.20595pt.
 
-<a5.pdf, id=55, page=2, 421.10124pt x 597.50829pt>
+<a5.pdf, id=46, page=2, 421.10124pt x 597.50829pt>
 File: a5.pdf Graphic file (type pdf)
  <use a5.pdf, page 2>
 Package pdftex.def Info: a5.pdf, page2 used on input line 7.
@@ -345,7 +345,7 @@ File: a5.pdf Graphic file (type pdf)
  <use a5.pdf, page 2>
 Package pdftex.def Info: a5.pdf, page2 used on input line 7.
 (pdftex.def)             Requested size: 420.88815pt x 597.20595pt.
- [2 <./a5.pdf> <./a5.pdf>] <a5.pdf, id=73, page=8, 421.10124pt x 597.50829pt>
+ [2 <./a5.pdf> <./a5.pdf>] <a5.pdf, id=70, page=8, 421.10124pt x 597.50829pt>
 File: a5.pdf Graphic file (type pdf)
 
 <use a5.pdf, page 8>
@@ -356,7 +356,7 @@ File: a5.pdf Graphic file (type pdf)
 Package pdftex.def Info: a5.pdf, page8 used on input line 7.
 (pdftex.def)             Requested size: 420.88815pt x 597.20595pt.
 
-<a5.pdf, id=74, page=5, 421.10124pt x 597.50829pt>
+<a5.pdf, id=71, page=5, 421.10124pt x 597.50829pt>
 File: a5.pdf Graphic file (type pdf)
  <use a5.pdf, page 5>
 Package pdftex.def Info: a5.pdf, page5 used on input line 7.
@@ -374,7 +374,7 @@ File: a5.pdf Graphic file (type pdf)
  <use a5.pdf, page 5>
 Package pdftex.def Info: a5.pdf, page5 used on input line 7.
 (pdftex.def)             Requested size: 420.88815pt x 597.20595pt.
- [3 <./a5.pdf> <./a5.pdf>] <a5.pdf, id=92, page=7, 421.10124pt x 597.50829pt>
+ [3 <./a5.pdf> <./a5.pdf>] <a5.pdf, id=89, page=7, 421.10124pt x 597.50829pt>
 File: a5.pdf Graphic file (type pdf)
 
 <use a5.pdf, page 7>
@@ -385,7 +385,7 @@ File: a5.pdf Graphic file (type pdf)
 Package pdftex.def Info: a5.pdf, page7 used on input line 7.
 (pdftex.def)             Requested size: 420.88815pt x 597.20595pt.
 
-<a5.pdf, id=93, page=6, 421.10124pt x 597.50829pt>
+<a5.pdf, id=90, page=6, 421.10124pt x 597.50829pt>
 File: a5.pdf Graphic file (type pdf)
  <use a5.pdf, page 6>
 Package pdftex.def Info: a5.pdf, page6 used on input line 7.
@@ -417,10 +417,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  43i,21n,50p,249b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on a4.pdf (4 pages, 1175687 bytes).
+Output written on a4.pdf (4 pages, 1432975 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -3,6 +3,7 @@
 
 
 \usepackage[a6paper]{geometry}
+\usepackage{afterpage}
 
 %\usepackage{unit}
 %\usepackage{gensymb}
@@ -33,7 +34,13 @@
   /Subject  (BlinkenHeart)
   /Keywords ()
 }
-	
+
+\newcommand\blankpage{%
+	\null
+	\thispagestyle{empty}%
+	\addtocounter{page}{-1}%
+	\newpage}
+
 \newcommand{\alertwarningbox}[1]{
 \begin{center}
 	\begin{tabularx}{\linewidth}{
@@ -60,12 +67,15 @@
 
 
 \begin{document}
+\topskip0pt
+\vspace*{\fill}
 \begin{center}
 	{\LARGE BlinkenHeart}
 \end{center}
 \begin{center}
 	\includegraphics[width=7cm]{Logo/Logo}
 \end{center}
+\vspace*{\fill}
 %\maketitle
 
 \newpage
@@ -89,6 +99,7 @@ gerade nicht benötigst.
 	\includegraphics[width=5cm]{-002}
 \end{center}
 
+\newpage
 \section{bedrahtete Bauteile löten}
 Stecke das Bauteil an der passenden Stelle durch die Löcher in der
 Platine. Das Bauteil muss auf der bedruckten Seite aufliegen. Sollte das
@@ -109,6 +120,7 @@ immer besser!
 	\includegraphics[width=5cm]{-006}
 \end{center}
 
+\newpage
 \section{SMD Bauteile löten}
 SMD Bauteile sind Bauteile, die du auf der Oberfläche der Platine an so
 genannte "Lötpads" anlötest. Lötpads sind Flächen auf der Platine, die
@@ -199,7 +211,7 @@ Die Gruppen sind auch nochmals in der Grafik mit der jeweiligen Nummer markiert.
 }
 
 \begin{center}
-	\includegraphics{pcb/solder_order}
+	\includegraphics[width=7cm]{pcb/solder_order}
 \end{center}
 
 \newpage
