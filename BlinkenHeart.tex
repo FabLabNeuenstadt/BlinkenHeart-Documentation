@@ -1,8 +1,10 @@
 \documentclass{article} %[a4paper,10pt]{article}
 %\documentclass[a4paper,10pt]{scrartcl}
 
-
-\usepackage[a6paper]{geometry}
+%\usepackage[a6paper]{geometry}
+\usepackage{geometry}
+\geometry{a6paper, top=5mm, left=5mm, right=5mm, bottom=5mm,
+	headsep=10mm, footskip=12mm}
 \usepackage{afterpage}
 
 %\usepackage{unit}
@@ -196,23 +198,30 @@ noch nicht gelöteten Pins weiter.
 \section{Löten}
 Am besten du lötest die Bauteil-Gruppen in folgender Reihenfolge ein, da es so am einfachsten ist:
 \begin{enumerate}
-	\item Mikroprozessor
-	\item Widerstände und Kondensatoren
-	\item Schalter und Taster
-	\item Leuchtdioden und Dioden
-	\item Batteriehalter
+	\item \textbf{Mikroprozessor}\\
+	Die korrekte Ausrichtung lässt sich am Punkt erkennen.
+	\item \textbf{Widerstände und Kondensatoren}
+	\item \textbf{Schalter und Taster}
+	\item \textbf{Leuchtdioden und Dioden}\\
+	Bei der LED zeigt der grüne Punkt den Minus-Pol an.\\
+	Der Minus-Pol der Diode lässt sich durch die weiße Linie erkennen.
+	\item \textbf{Batteriehalter}\\
+	Die korrekte Ausrichtung lässt sich durch die abgekantete Ecke erkennen.
 \end{enumerate}
 Die Gruppen sind auch nochmals in der Grafik mit der jeweiligen Nummer markiert.
 
 \alertwarningbox{achte bei den Gruppen 1, 3, 4, 5 auf die korrekte Ausrichtung!
 	Wenn diese Bauteile falsch herum eingelötet werden funktioniert das
 	BlinkenHeart anschließend nicht.}
-\hintbox{fange je Gruppe oben links an und löte dann jedes Bauteil einzeln im Uhrzeigersinn ein.
-}
+\hintbox{fange je Gruppe oben links an und löte dann jedes Bauteil einzeln im Uhrzeigersinn ein.}
 
+\newpage
+\topskip0pt
+\vspace*{\fill}
 \begin{center}
-	\includegraphics[width=7cm]{pcb/solder_order}
+	\includegraphics[width=9cm]{pcb/solder_order}
 \end{center}
+\vspace*{\fill}
 
 \newpage
 \section{Infos über die Bauteile}
@@ -241,7 +250,7 @@ Die unmittelbar in der Nähe des Prozessors platzierten Bauteile sind Widerstän
 Das Bauteil C1, welches sich direkt unter dem untersten Widerstand befindet ist ein Kondensator. Es glättet die Eingangs-Spannung in dem Falle das die BlinkenHeart über USB mit Strom versorgt wird. Dies ist nur beim beschreiben der BlinkenHeart mit einem neuen Programm der Fall.
 
 \newpage
-\section{über BlinkenHeart}
+\section{Lizenzinformationen}
 {\footnotesize Die Bilder der Lötanleitung sind aus den Comics "Soldering is easy" von mightyohm.com und
 "SMT soldering - it's easier than you think" von siliconfarmers.com entnommen und unter einer
 Creative Commons Attribution Share-Alike Lizenz lizensiert.

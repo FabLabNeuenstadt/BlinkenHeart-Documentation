@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.29)  8 AUG 2017 22:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.29)  10 SEP 2017 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -762,18 +762,18 @@ Package graphics Info: Driver file: pdftex.def on input line 95.
 (./BlinkenHeart.aux)
 \openout1 = `BlinkenHeart.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -783,19 +783,19 @@ LaTeX Font Info:    ... okay on input line 69.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(44.81355pt, 209.12683pt, 44.81355pt)
-* v-part:(T,H,B)=(50.5326pt, 294.76926pt, 75.79893pt)
+* h-part:(L,W,R)=(14.22636pt, 270.30121pt, 14.22636pt)
+* v-part:(T,H,B)=(14.22636pt, 392.64806pt, 14.22636pt)
 * \paperwidth=298.75394pt
 * \paperheight=421.10078pt
-* \textwidth=209.12683pt
-* \textheight=294.76926pt
-* \oddsidemargin=-27.45644pt
-* \evensidemargin=-27.45644pt
-* \topmargin=-58.7374pt
+* \textwidth=270.30121pt
+* \textheight=392.64806pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-98.49637pt
 * \headheight=12.0pt
-* \headsep=25.0pt
+* \headsep=28.45274pt
 * \topskip=10.0pt
-* \footskip=30.0pt
+* \footskip=34.1433pt
 * \marginparwidth=65.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
@@ -809,7 +809,7 @@ LaTeX Font Info:    ... okay on input line 69.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 69.
+LaTeX Info: Redefining \microtypecontext on input line 71.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -857,150 +857,106 @@ e
 File: images/Logo/Logo.png Graphic file (type png)
 
 <use images/Logo/Logo.png>
-Package pdftex.def Info: images/Logo/Logo.png used on input line 76.
+Package pdftex.def Info: images/Logo/Logo.png used on input line 78.
 (pdftex.def)             Requested size: 199.16928pt x 173.93681pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/Logo/Logo.png>]
-Overfull \hbox (10.35071pt too wide) in paragraph at lines 83--86
-\OT1/cmr/m/n/10 (-20) Nach dem L^^?oten musst du dir deine H^^?ande gr^^?undlic
-h
- []
-
 <images/-000.png, id=11, 637.38126pt x 530.98375pt>
 File: images/-000.png Graphic file (type png)
  <use images/-000.png>
-Package pdftex.def Info: images/-000.png used on input line 87.
+Package pdftex.def Info: images/-000.png used on input line 89.
 (pdftex.def)             Requested size: 142.26378pt x 118.51013pt.
 
 [2 <./images/-000.png (PNG copy)>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 93.
+(Font)              <7> on input line 95.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 93.
+(Font)              <5> on input line 95.
 
 <images/-002.png, id=16, 630.355pt x 476.78125pt>
 File: images/-002.png Graphic file (type png)
  <use images/-002.png>
-Package pdftex.def Info: images/-002.png used on input line 99.
+Package pdftex.def Info: images/-002.png used on input line 101.
 (pdftex.def)             Requested size: 142.26378pt x 107.59853pt.
 
 [3 <./images/-002.png (PNG copy)>]
 <images/-004.png, id=21, 553.06625pt x 456.70625pt>
 File: images/-004.png Graphic file (type png)
  <use images/-004.png>
-Package pdftex.def Info: images/-004.png used on input line 112.
+Package pdftex.def Info: images/-004.png used on input line 114.
 (pdftex.def)             Requested size: 142.26378pt x 117.4725pt.
 
-Overfull \hbox (4.10909pt too wide) in paragraph at lines 115--119
-\OT1/cmr/m/n/10 (-20) kannst du mit der L^^?otspitze an dem Draht-beinchen
- []
-
-[4 <./images/-004.png (PNG copy)>]
-<images/-006.png, id=25, 679.53876pt x 414.54875pt>
+<images/-006.png, id=22, 679.53876pt x 414.54875pt>
 File: images/-006.png Graphic file (type png)
  <use images/-006.png>
-Package pdftex.def Info: images/-006.png used on input line 120.
+Package pdftex.def Info: images/-006.png used on input line 122.
 (pdftex.def)             Requested size: 142.26378pt x 86.7858pt.
 
-[5 <./images/-006.png (PNG copy)>]
-Overfull \hbox (17.53969pt too wide) in paragraph at lines 125--132
-\OT1/cmr/m/n/10 (-20) SMD Bauteile sind Bauteile, die du auf der Oberfl^^?ache
- []
-
-<images/-010.png, id=29, 923.45pt x 286.06876pt>
+[4 <./images/-004.png (PNG copy)> <./images/-006.png (PNG copy)>]
+<images/-010.png, id=26, 923.45pt x 286.06876pt>
 File: images/-010.png Graphic file (type png)
  <use images/-010.png>
-Package pdftex.def Info: images/-010.png used on input line 133.
+Package pdftex.def Info: images/-010.png used on input line 135.
 (pdftex.def)             Requested size: 142.26378pt x 44.06956pt.
 
-<images/-008.png, id=30, 902.37125pt x 466.74374pt>
+<images/-008.png, id=27, 902.37125pt x 466.74374pt>
 File: images/-008.png Graphic file (type png)
  <use images/-008.png>
-Package pdftex.def Info: images/-008.png used on input line 142.
+Package pdftex.def Info: images/-008.png used on input line 144.
 (pdftex.def)             Requested size: 142.26378pt x 73.58374pt.
 
-[6 <./images/-010.png (PNG copy)>]
-Overfull \hbox (1.69685pt too wide) in paragraph at lines 145--152
-\OT1/cmr/m/n/10 (-20) L^^?otkolben er-hitzt, f^^?uhrst du solange et-was L^^?ot
-zinn
- []
-
-[7 <./images/-008.png (PNG copy)>]
-<images/-012.png, id=38, 635.37375pt x 500.87125pt>
+[5 <./images/-010.png (PNG copy)> <./images/-008.png (PNG copy)>]
+<images/-012.png, id=31, 635.37375pt x 500.87125pt>
 File: images/-012.png Graphic file (type png)
  <use images/-012.png>
-Package pdftex.def Info: images/-012.png used on input line 170.
+Package pdftex.def Info: images/-012.png used on input line 172.
 (pdftex.def)             Requested size: 142.26378pt x 112.14853pt.
 
-[8 <./images/-012.png (PNG copy)>]
-<images/-016.png, id=42, 1017.8025pt x 429.605pt>
+[6 <./images/-012.png (PNG copy)>]
+Overfull \hbox (4.1767pt too wide) in paragraph at lines 186--193
+\OT1/cmr/m/n/10 (-20) geschmolzen ist und den Pin um-flie^^Yt. Nimm dann den L^
+^?otkolben
+ []
+
+<images/-016.png, id=35, 1017.8025pt x 429.605pt>
 File: images/-016.png Graphic file (type png)
  <use images/-016.png>
-Package pdftex.def Info: images/-016.png used on input line 192.
+Package pdftex.def Info: images/-016.png used on input line 194.
 (pdftex.def)             Requested size: 142.26378pt x 60.04596pt.
 
-[9 <./images/-016.png (PNG copy)>]
-<images/icons/001-warning.png, id=46, 51.392pt x 51.392pt>
+[7 <./images/-016.png (PNG copy)>]
+<images/icons/001-warning.png, id=40, 63.14375pt x 63.14375pt>
 <use images/icons/001-warning.png> <use images/icons/001-warning.png>
 File: images/icons/001-warning.png Graphic file (type png)
 
 <use images/icons/001-warning.png>
-Package pdftex.def Info: images/icons/001-warning.png used on input line 209.
-(pdftex.def)             Requested size: 28.45274pt x 28.45308pt.
+Package pdftex.def Info: images/icons/001-warning.png used on input line 215.
+(pdftex.def)             Requested size: 28.45274pt x 28.45296pt.
 
-<images/icons/002-technology.png, id=47, 51.392pt x 51.392pt>
+<images/icons/002-technology.png, id=41, 411.136pt x 411.136pt>
 <use images/icons/002-technology.png> <use images/icons/002-technology.png>
 File: images/icons/002-technology.png Graphic file (type png)
 
 <use images/icons/002-technology.png>
-Package pdftex.def Info: images/icons/002-technology.png used on input line 211
+Package pdftex.def Info: images/icons/002-technology.png used on input line 216
 .
-(pdftex.def)             Requested size: 28.45274pt x 28.45308pt.
-
-Underfull \hbox (badness 1292) in paragraph at lines 211--211
-\OT1/cmr/m/n/10 (+20) an und l^^?ote dann jedes Bauteil
- []
-
-[10 <./images/icons/001-warning.png>]
-<images/pcb/solder_order.png, id=53, 247.22362pt x 216.60925pt>
+(pdftex.def)             Requested size: 28.45274pt x 28.44997pt.
+ [8 <./images/icons/001-warning.png> <./images/icons/002-technology.png>]
+<images/pcb/solder_order.png, id=48, 247.22362pt x 216.60925pt>
 File: images/pcb/solder_order.png Graphic file (type png)
 
 <use images/pcb/solder_order.png>
-Package pdftex.def Info: images/pcb/solder_order.png used on input line 214.
-(pdftex.def)             Requested size: 199.16928pt x 174.50723pt.
- [11 <./images/icons/002-technology.png> <./images/pcb/solder_order.png>]
-Overfull \hbox (1.06966pt too wide) in paragraph at lines 220--221
-\OT1/cmr/m/n/10 (-20) Pro-gramm-code der Blinken-Heart und f^^?uhrt diesen
- []
-
+Package pdftex.def Info: images/pcb/solder_order.png used on input line 222.
+(pdftex.def)             Requested size: 256.0748pt x 224.36597pt.
+ [9 <./images/pcb/solder_order.png>]
 <use images/icons/002-technology.png> <use images/icons/002-technology.png>
 File: images/icons/002-technology.png Graphic file (type png)
 
 <use images/icons/002-technology.png>
-Package pdftex.def Info: images/icons/002-technology.png used on input line 222
+Package pdftex.def Info: images/icons/002-technology.png used on input line 231
 .
-(pdftex.def)             Requested size: 28.45274pt x 28.45308pt.
-
-Underfull \hbox (badness 6047) in paragraph at lines 222--222
-\OT1/cmr/m/n/10 (+20) aus un-serem GitHub-Repository
- []
-
-
-Underfull \hbox (badness 7030) in paragraph at lines 222--222
-\OT1/cmr/m/n/10 (+20) auch ver^^?andert wer-den. Be-
- []
-
-
-Underfull \hbox (badness 1412) in paragraph at lines 222--222
-\OT1/cmr/m/n/10 (+20) suche daf^^?ur ein-fach die Web-site
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-\OT1/cmr/m/n/10 (+20) "github.com/FabLabNeuenstadt/
- []
-
+(pdftex.def)             Requested size: 28.45274pt x 28.44997pt.
 Package epstopdf Info: Source file: <images/hw-repo-link.eps>
 (epstopdf)                    date: 2017-07-29 18:50:38
 (epstopdf)                    size: 27212 bytes
@@ -1009,47 +965,43 @@ Package epstopdf Info: Source file: <images/hw-repo-link.eps>
 (epstopdf)                    size: 6554 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/hw-repo-link-eps-co
 nverted-to.pdf images/hw-repo-link.eps>
-(epstopdf)             \includegraphics on input line 224.
+(epstopdf)             \includegraphics on input line 233.
 Package epstopdf Info: Output file is already uptodate.
-<images/hw-repo-link-eps-converted-to.pdf, id=59, 31.11626pt x 31.11626pt>
+
+<images/hw-repo-link-eps-converted-to.pdf, id=53, 31.11626pt x 31.11626pt>
 File: images/hw-repo-link-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/hw-repo-link-eps-converted-to.pdf>
 Package pdftex.def Info: images/hw-repo-link-eps-converted-to.pdf used on input
- line 224.
+ line 233.
 (pdftex.def)             Requested size: 85.35826pt x 85.37668pt.
- [12 <./images/hw-repo-link-eps-converted-to.pdf>]
-Overfull \hbox (19.2885pt too wide) in paragraph at lines 237--238
-\OT1/cmr/m/n/10 (-20) Die un-mit-tel-bar in der N^^?ahe des Prozes-sors platzie
-rten
- []
-
-[13] [14] <images/logo.png, id=72, 336.25626pt x 135.50626pt>
+ [10 <./images/hw-repo-link-eps-converted-to.pdf>] [11] [12]
+<images/logo.png, id=65, 336.25626pt x 135.50626pt>
 File: images/logo.png Graphic file (type png)
-
-<use images/logo.png>
-Package pdftex.def Info: images/logo.png used on input line 259.
+ <use images/logo.png>
+Package pdftex.def Info: images/logo.png used on input line 268.
 (pdftex.def)             Requested size: 142.26378pt x 57.3299pt.
- [15 <./images/logo.png>] (./BlinkenHeart.aux) ) 
+
+[13 <./images/logo.png>] (./BlinkenHeart.aux) ) 
 Here is how much of TeX's memory you used:
- 12592 strings out of 494953
- 227749 string characters out of 6180977
- 308108 words of memory out of 5000000
+ 12599 strings out of 494953
+ 227797 string characters out of 6180977
+ 309166 words of memory out of 5000000
  15674 multiletter control sequences out of 15000+600000
- 8067 words of font info for 55 fonts, out of 8000000 for 9000
+ 8271 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  40i,12n,42p,10401b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y7.pfb>
-Output written on BlinkenHeart.pdf (15 pages, 1424246 bytes).
+</usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb>
+Output written on BlinkenHeart.pdf (13 pages, 1433300 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 93 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  9799 words of extra memory for PDF output out of 10000 (max. 10000000)
 

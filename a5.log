@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.29)  8 AUG 2017 22:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.29)  10 SEP 2017 21:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -154,18 +154,18 @@ File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 ) (./a5.aux)
 \openout1 = `a5.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -175,19 +175,19 @@ LaTeX Font Info:    ... okay on input line 5.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(63.16576pt, 294.76926pt, 63.16577pt)
-* v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
+* h-part:(L,W,R)=(0.0pt, 421.10078pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 597.50787pt, 0.0pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=294.76926pt
-* \textheight=418.25368pt
-* \oddsidemargin=-9.10423pt
-* \evensidemargin=-9.10423pt
-* \topmargin=-37.56833pt
+* \textwidth=421.10078pt
+* \textheight=597.50787pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-112.72273pt
 * \headheight=12.0pt
-* \headsep=25.0pt
+* \headsep=28.45274pt
 * \topskip=10.0pt
-* \footskip=30.0pt
+* \footskip=34.1433pt
 * \marginparwidth=65.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
@@ -270,286 +270,279 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 <BlinkenHeart.pdf, id=1, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf>
-Package pdftex.def Info: BlinkenHeart.pdf used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf used on input line 10.
 (pdftex.def)             Requested size: 298.75342pt x 421.1002pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf>
-Package pdftex.def Info: BlinkenHeart.pdf used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf used on input line 10.
 (pdftex.def)             Requested size: 298.75342pt x 421.1002pt.
 
 <BlinkenHeart.pdf, id=4, page=1, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 1>
-Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.75342pt x 421.1002pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 1>
-Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 1>
-Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 1>
-Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 1>
-Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 1>
-Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 1>
-Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
  [1
 
  <./BlinkenHeart.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}>]
-<BlinkenHeart.pdf, id=24, page=15, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
-
-<use BlinkenHeart.pdf, page 15>
-Package pdftex.def Info: BlinkenHeart.pdf, page15 used on input line 7.
+ <use BlinkenHeart.pdf, page 1>
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
- <use BlinkenHeart.pdf, page 15>
-Package pdftex.def Info: BlinkenHeart.pdf, page15 used on input line 7.
+
+<use BlinkenHeart.pdf, page 1>
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 
-<BlinkenHeart.pdf, id=25, page=2, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=24, page=2, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 2>
-Package pdftex.def Info: BlinkenHeart.pdf, page2 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page2 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 2>
-Package pdftex.def Info: BlinkenHeart.pdf, page2 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page2 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
-<use BlinkenHeart.pdf, page 15>
-Package pdftex.def Info: BlinkenHeart.pdf, page15 used on input line 7.
+<use BlinkenHeart.pdf, page 2>
+Package pdftex.def Info: BlinkenHeart.pdf, page2 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
-File: BlinkenHeart.pdf Graphic file (type pdf)
- <use BlinkenHeart.pdf, page 2>
-Package pdftex.def Info: BlinkenHeart.pdf, page2 used on input line 7.
-(pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
- [2 <./BlinkenHeart.pdf> <./BlinkenHeart.pdf>]
-<BlinkenHeart.pdf, id=42, page=14, 298.75415pt x 421.10124pt>
+ [2 <./BlinkenHeart.pdf>]
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
-<use BlinkenHeart.pdf, page 14>
-Package pdftex.def Info: BlinkenHeart.pdf, page14 used on input line 7.
+<use BlinkenHeart.pdf, page 1>
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
- <use BlinkenHeart.pdf, page 14>
-Package pdftex.def Info: BlinkenHeart.pdf, page14 used on input line 7.
+ <use BlinkenHeart.pdf, page 1>
+Package pdftex.def Info: BlinkenHeart.pdf, page1 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 
-<BlinkenHeart.pdf, id=43, page=3, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=34, page=3, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 3>
-Package pdftex.def Info: BlinkenHeart.pdf, page3 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page3 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 3>
-Package pdftex.def Info: BlinkenHeart.pdf, page3 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page3 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
-<use BlinkenHeart.pdf, page 14>
-Package pdftex.def Info: BlinkenHeart.pdf, page14 used on input line 7.
+<use BlinkenHeart.pdf, page 3>
+Package pdftex.def Info: BlinkenHeart.pdf, page3 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
-File: BlinkenHeart.pdf Graphic file (type pdf)
- <use BlinkenHeart.pdf, page 3>
-Package pdftex.def Info: BlinkenHeart.pdf, page3 used on input line 7.
-(pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
- [3 <./BlinkenHeart.pdf> <./BlinkenHeart.pdf>]
-<BlinkenHeart.pdf, id=53, page=13, 298.75415pt x 421.10124pt>
+ [3 <./BlinkenHeart.pdf>]
+<BlinkenHeart.pdf, id=44, page=13, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 13>
-Package pdftex.def Info: BlinkenHeart.pdf, page13 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page13 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 13>
-Package pdftex.def Info: BlinkenHeart.pdf, page13 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page13 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 
-<BlinkenHeart.pdf, id=54, page=4, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=45, page=4, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 4>
-Package pdftex.def Info: BlinkenHeart.pdf, page4 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page4 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 4>
-Package pdftex.def Info: BlinkenHeart.pdf, page4 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page4 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 13>
-Package pdftex.def Info: BlinkenHeart.pdf, page13 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page13 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 4>
-Package pdftex.def Info: BlinkenHeart.pdf, page4 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page4 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
  [4 <./BlinkenHeart.pdf> <./BlinkenHeart.pdf>]
-<BlinkenHeart.pdf, id=64, page=12, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=58, page=12, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 12>
-Package pdftex.def Info: BlinkenHeart.pdf, page12 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page12 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 12>
-Package pdftex.def Info: BlinkenHeart.pdf, page12 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page12 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 
-<BlinkenHeart.pdf, id=65, page=5, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=59, page=5, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 5>
-Package pdftex.def Info: BlinkenHeart.pdf, page5 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page5 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 5>
-Package pdftex.def Info: BlinkenHeart.pdf, page5 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page5 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 12>
-Package pdftex.def Info: BlinkenHeart.pdf, page12 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page12 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 5>
-Package pdftex.def Info: BlinkenHeart.pdf, page5 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page5 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
  [5 <./BlinkenHeart.pdf> <./BlinkenHeart.pdf>]
-<BlinkenHeart.pdf, id=76, page=11, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=65, page=11, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 11>
-Package pdftex.def Info: BlinkenHeart.pdf, page11 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page11 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 11>
-Package pdftex.def Info: BlinkenHeart.pdf, page11 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page11 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 
-<BlinkenHeart.pdf, id=77, page=6, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=66, page=6, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 6>
-Package pdftex.def Info: BlinkenHeart.pdf, page6 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page6 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 6>
-Package pdftex.def Info: BlinkenHeart.pdf, page6 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page6 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 11>
-Package pdftex.def Info: BlinkenHeart.pdf, page11 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page11 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 6>
-Package pdftex.def Info: BlinkenHeart.pdf, page6 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page6 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
  [6 <./BlinkenHeart.pdf> <./BlinkenHeart.pdf>]
-<BlinkenHeart.pdf, id=85, page=10, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=71, page=10, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 10>
-Package pdftex.def Info: BlinkenHeart.pdf, page10 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page10 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 10>
-Package pdftex.def Info: BlinkenHeart.pdf, page10 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page10 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 
-<BlinkenHeart.pdf, id=86, page=7, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=72, page=7, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 7>
-Package pdftex.def Info: BlinkenHeart.pdf, page7 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page7 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 7>
-Package pdftex.def Info: BlinkenHeart.pdf, page7 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page7 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 10>
-Package pdftex.def Info: BlinkenHeart.pdf, page10 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page10 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 7>
-Package pdftex.def Info: BlinkenHeart.pdf, page7 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page7 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
  [7 <./BlinkenHeart.pdf> <./BlinkenHeart.pdf>]
-<BlinkenHeart.pdf, id=95, page=9, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=89, page=9, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 9>
-Package pdftex.def Info: BlinkenHeart.pdf, page9 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page9 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 9>
-Package pdftex.def Info: BlinkenHeart.pdf, page9 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page9 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 
-<BlinkenHeart.pdf, id=96, page=8, 298.75415pt x 421.10124pt>
+<BlinkenHeart.pdf, id=90, page=8, 298.75415pt x 421.10124pt>
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 8>
-Package pdftex.def Info: BlinkenHeart.pdf, page8 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page8 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 8>
-Package pdftex.def Info: BlinkenHeart.pdf, page8 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page8 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
 
 <use BlinkenHeart.pdf, page 9>
-Package pdftex.def Info: BlinkenHeart.pdf, page9 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page9 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
 File: BlinkenHeart.pdf Graphic file (type pdf)
  <use BlinkenHeart.pdf, page 8>
-Package pdftex.def Info: BlinkenHeart.pdf, page8 used on input line 7.
+Package pdftex.def Info: BlinkenHeart.pdf, page8 used on input line 10.
 (pdftex.def)             Requested size: 298.25652pt x 420.39983pt.
- [8 <./BlinkenHeart.pdf> <./BlinkenHeart.pdf>] (./a5.aux) ) 
+ [8 <./BlinkenHeart.pdf> <./BlinkenHeart.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./BlinkenHeart.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>] (./a5.aux) ) 
 Here is how much of TeX's memory you used:
- 3669 strings out of 494953
- 52531 string characters out of 6180977
- 125977 words of memory out of 5000000
- 6919 multiletter control sequences out of 15000+600000
+ 3662 strings out of 494953
+ 52365 string characters out of 6180977
+ 126019 words of memory out of 5000000
+ 6913 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  43i,21n,50p,249b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy7.pfb>
-Output written on a5.pdf (8 pages, 1430447 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on a5.pdf (8 pages, 1439058 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
